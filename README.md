@@ -19,8 +19,8 @@ Welcome to ModestNerds, Co - where cutting-edge technology meets unassuming expe
 ### 🛠️ Our Tech Stack
 
 - Flutter & Dart
-- Modern Web Technologies (React, Vue, Angular)
-- Backend Frameworks (Node.js, Django, Ruby on Rails)
+- Modern Web Technologies (Next.js, Flutter)
+- Backend Frameworks (Node.js, Django, Golang, Laravel)
 - Cloud Services (AWS, Google Cloud, Azure)
 - Database Solutions (SQL, NoSQL)
 
